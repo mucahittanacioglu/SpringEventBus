@@ -4,7 +4,7 @@ public class EventBusConfig {
 
     private int connectionRetryCount = 5;
 
-    private String defaultTopicName = "HC3";
+    private String defaultTopicName = "MyMicroServiceProject";
 
     private String eventBusConnectionString = "";
 
